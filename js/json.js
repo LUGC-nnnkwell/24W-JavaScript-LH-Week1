@@ -7,7 +7,7 @@ async function populate() {
     // Introducing JavaScript Object Notation (JSON): https://json.org/
     // STEP 4a: Create i-scream.json file with companyName, headOffice, established, active, topFlavors(name, calories, type, ingredients, image) */
     // STEP 4b: Store the URL of a JSON file in a variable */
-    const url = "https://LUGC-nnnkwell.github.io/24W-JavaScript-LH-Week11/js/i-scream.json";
+    const url = "https://lugc-nnnkwell.github.io/24W-JavaScript-LH-Week1/js/i-scream.json"; //hindia
     // STEP 5: Use the new URL to create a new request object
     const request = new Request(url);
     // STEP 6: Make a network request with the fetch() function, which returns a Response object
@@ -63,7 +63,7 @@ function showTopFlavors(jsonData) {
             listItem.textContent = ingredients[j];
             list.appendChild(listItem);
             // <ul>
-            //    <li></li> 
+            //    <li></li> #INDIA
             //    <li></li> 
             //    <li></li>
             // </ul> 
