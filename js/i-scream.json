@@ -23,20 +23,19 @@
             "ingredients": ["Strawberry Syrup", "Sprinkles", "Vanilla Base"],
             "image": "https://priyansht.github.io/24W-JavaScript-LH-Week11/images/strawberry-sprinkle.svg"
         },
-
         {
             "name": "1 Sprinkle",
             "calories": 54324243234,
             "type": "sugar",
             "ingredients": ["Blueberry Syrup", "Sprinkles", "Lamash Base"],
-            "image": "https://priyansht.github.io/24W-JavaScript-LH-Week11/images/ice-cream-xtra1.svg.svg"
+            "image": "https://priyansht.github.io/24W-JavaScript-LH-Week11/images/ice-cream-xtra1.svg"
         },
         {
             "name": "2 Sprinkle",
             "calories": 42344,
             "type": "sofa",
             "ingredients": ["Mango Syrup", "Sprinkles", "Sprikles Base"],
-            "image": "https://priyansht.github.io/24W-JavaScript-LH-Week11/images/ice-cream-xtra2.svg.svg"
+            "image": "https://priyansht.github.io/24W-JavaScript-LH-Week11/images/ice-cream-xtra2.svg"
         }
     ]
 }
